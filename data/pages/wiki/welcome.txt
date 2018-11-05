@@ -5,6 +5,8 @@ TESTE. Alteração alterado no dominio
 
 :Wiki:img-20181018-wa0002.jpg  lteracao. Mobile
 
+
+Blabla
 Congratulations, your wiki is now up and running. Here are a few more tips to get you started.
 
 Enjoy your work with DokuWiki,\\
