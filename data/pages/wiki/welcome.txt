@@ -1,8 +1,10 @@
 ====== Welcome to your new DokuWiki ======
 
-TESTE. Alteração
+TESTE. Alteração alterado no dominio
 
-Slteracao. Mobile
+
+:Wiki:img-20181018-wa0002.jpg  lteracao. Mobile
+
 Congratulations, your wiki is now up and running. Here are a few more tips to get you started.
 
 Enjoy your work with DokuWiki,\\
