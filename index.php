@@ -1,5 +1,5 @@
 <?php
-/**
+/** ALTERAÇÂO MANUAL FEITA NO GITHUB
  * Forwarder/Router to doku.php
  *
  * In normal usage, this script simply redirects to doku.php. However it can also be used as a routing
